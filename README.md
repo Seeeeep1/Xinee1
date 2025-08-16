@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joshhhhhhhhhhhh18
+- 👋 Hi, I’m @Xinee1
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Phython.
 - 💞️ I’m looking to collaborate on professional programmer
